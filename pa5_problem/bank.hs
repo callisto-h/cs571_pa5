@@ -1,8 +1,3 @@
-
-
-
-
-
 -- Should output "(True, -50)"
 test1 =
     (let bankOp = do
